@@ -1,0 +1,3 @@
+# Desktop version uses only Python standard library.
+# Optional EXE packaging:
+pyinstaller>=6.0
